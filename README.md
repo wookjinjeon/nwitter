@@ -125,4 +125,5 @@ REACT_APP_APP_ID = {YOUR_APP_ID_HERE}
 **Ch 08 깃허브로 누이터 배포하고 보안 챙기기**
 
 - https://pages.github.com/
+- [(Firebase 문서) Firebase 보안 규칙 > 보안규칙 언어](https://firebase.google.com/docs/rules/rules-language)
 
